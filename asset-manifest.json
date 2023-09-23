@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Landing-Page-TailwindCSS/static/css/main.64bd3294.css",
+    "main.js": "/Landing-Page-TailwindCSS/static/js/main.ef716ecb.js",
+    "static/js/787.f385b59f.chunk.js": "/Landing-Page-TailwindCSS/static/js/787.f385b59f.chunk.js",
+    "static/media/laptop.jpg": "/Landing-Page-TailwindCSS/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/Landing-Page-TailwindCSS/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/Landing-Page-TailwindCSS/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/Landing-Page-TailwindCSS/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/Landing-Page-TailwindCSS/index.html",
+    "main.64bd3294.css.map": "/Landing-Page-TailwindCSS/static/css/main.64bd3294.css.map",
+    "main.ef716ecb.js.map": "/Landing-Page-TailwindCSS/static/js/main.ef716ecb.js.map",
+    "787.f385b59f.chunk.js.map": "/Landing-Page-TailwindCSS/static/js/787.f385b59f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64bd3294.css",
+    "static/js/main.ef716ecb.js"
+  ]
+}
